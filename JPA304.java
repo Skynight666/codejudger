@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JP302 {
+public class JPA304 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = new int[6];
