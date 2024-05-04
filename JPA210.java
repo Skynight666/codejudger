@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class JP4 {
+public class JPA210 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n1 = scn.nextInt();
